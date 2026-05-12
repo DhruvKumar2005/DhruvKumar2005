@@ -85,7 +85,7 @@
 ### Bachelor of Engineering in Computer Science and Engineering
 📍 Chitkara University, Rajpura Punjab  
 📅 2023 – 2027  
-📊 CGPA: **8.94**
+
 
 ---
 
