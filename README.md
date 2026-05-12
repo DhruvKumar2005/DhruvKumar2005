@@ -1,77 +1,112 @@
-<h1 align="center">Hi 👋, I'm Dhruv Kumar</h1>
+# Hi there 👋, I'm Dhruv Kumar  
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Web+Developer;Software+Engineer;AI+Agents+Builder;Cloud+Engineer" />
-</h3>
+🎓 Computer Science Engineering student at **Chitkara University**  
+💻 Passionate about **Java, Full-Stack Development, and Problem Solving**  
+🚀 Building scalable web applications using the **MERN Stack**  
+🌱 Currently learning **Cloud Technologies & Advanced Backend Development**  
 
 ---
 
-## 🌟 About Me
-- 🎓 CSE Student @ Chitkara University
-- 💻 Software Engineer | Web Developer | AI Engineer | Cloud Engineer
-- 🤖 Passionate about AI, ML & Intelligent Systems
-- 🚀 Building Full Stack + AI-powered applications
-- 📫 Email: **dhruvkumarbe650@gmail.com**
+## 🚀 About Me
+- 🔭 I’m currently working on **MERN Stack Projects**
+- 💡 Interested in **Software Development, Backend Engineering, and Cloud Computing**
+- 🧠 Strong understanding of **DSA, OOP, DBMS, OS, and Computer Networks**
+- ⚡ Love solving coding problems and building real-world applications
+- 📫 Reach me at: **dhruvkumarbe650@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming Languages
-![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python" />
+</p>
 
 ### 🌐 Web Development
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-darkgreen?style=for-the-badge&logo=spring)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,nodejs,express,react,mongodb" />
+</p>
 
----
-
-### 🤖 AI / ML
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
-
----
-
-### 🧠 AI Agents & Tools
-![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-green?style=for-the-badge)
-![AI Agents](https://img.shields.io/badge/AI_Agents-blue?style=for-the-badge)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql)
-
----
-
-## 🚀 Projects
-- 🔹 Job portal 
-- 🔹 Food Delivery Website 
-
----
-
-
-
----
-
-## 🔗 Connect with me
-<p align="center">
-  <a href="https://www.linkedin.com/in/dhruvkumar200705/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:dhruvkumarbe650@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"></a>
+### ☁️ Cloud & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,git,github,vscode,postman,mysql" />
 </p>
 
 ---
 
-⭐ From Dhruv Kumar 🚀
+## 📚 Core CS Concepts
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Operating Systems
+- Database Management Systems
+- Computer Networks
+
+---
+
+# 🚀 Projects
+
+## 🍔 Food Delivery Platform (MERN Stack)
+- Developed a full-stack MERN application featuring:
+  - Admin Dashboard
+  - Real-time Order Tracking
+  - Multi-role Authentication
+- Integrated Razorpay payment gateway and email notifications using Nodemailer.
+
+---
+
+## 💼 Job Portal Application (MERN Stack)
+- Engineered a role-based job portal supporting recruiter and candidate workflows.
+- Developed modular backend APIs enabling scalable architecture and seamless user experience.
+
+---
+
+## 🎮 Tic Tac Toe - Linux CLI
+- Built a 2-player CLI game using Bash scripting.
+- Implemented turn-based logic and input validation.
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DhruvKumar2005&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhruvKumar2005&layout=compact&theme=tokyonight" height="180em"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvKumar2005&theme=tokyonight" />
+</p>
+
+---
+
+# 🎓 Education
+
+### Bachelor of Engineering in Computer Science and Engineering
+📍 Chitkara University, Rajpura Punjab  
+📅 2023 – 2027  
+📊 CGPA: **8.94**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="left">
+<a href="mailto:dhruvkumarbe650@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://www.linkedin.com/in/dhruvkumar200705/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/DhruvKumar2005" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ <i>Code. Learn. Build. Repeat.</i> ⭐
+</p>
